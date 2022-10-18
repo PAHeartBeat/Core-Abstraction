@@ -43,7 +43,7 @@
 		"namingRules": {
 			"allowCommonHungarianPrefixes": true,
 			"allowedHungarianPrefixes": [],
-			"allowedNamespaceComponents": ["iOS", "v"],
+			"allowedNamespaceComponents": ["iOS", "iPAHeartBeat"],
 			"includeInferredTupleElementNames": true,
 			"tupleElementNameCasing": "camelCase"
 		},

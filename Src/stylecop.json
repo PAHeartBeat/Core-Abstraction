@@ -10,10 +10,15 @@
 			"documentPrivateElements": true,
 			"documentPrivateFields": true,
 			"companyName": "iPAHeartBeat",
-			"copyrightText": "Copyright (c) {companyName}. All rights reserved.",
+			"copyrightText": "Copyright (c) {companyName}. All rights reserved.\nAuthor: {Author}\nEMail: {EMail}\nCopyright: {Copyright}\nSocial: {Social}\nOriginal Source:\nLast Modified:\nContributed by:\nCurtsey By:",
 			"xmlHeader": true,
-			"headerDecoration": "--------------------------------------------------------------------------------",
-			"variables": {}
+			"headerDecoration": "--------------------------------------------------------------------------------------",
+			"variables": {
+				"Author": "Ankur Ranpariya {iPAHeartBeat}",
+				"EMail": "ankur30884@gmail.com",
+				"Copyright": "(c) 2017, by: Ranpariya Ankur {iPAHeartBeat}",
+				"Social": "@iPAHeartBeat, www.ranpariyaankur.com"
+			}
 		},
 		"indentation": {
 			"indentationSize": 4,

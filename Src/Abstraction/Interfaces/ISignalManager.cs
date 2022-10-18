@@ -1,17 +1,20 @@
-// --------------------------------------------------------------------------------
-// <copyright file="ISignalManager.cs" company="N/A">
-// Copyright (c) N/A. All rights reserved.
+// --------------------------------------------------------------------------------------
+// <copyright file="ISignalManager.cs" company="iPAHeartBeat">
+// Copyright (c) iPAHeartBeat. All rights reserved.
 // </copyright>
-// --------------------------------------------------------------------------------
-// Author:			Ankur Ranpariya {iPAHeartBeat}
-// EMail:			ankur30884@gmail.com
-// Copyright:		(c) 2017, by: Ranpariya Ankur {iPAHeartBeat}
-// Social:			@iPAHeartBeat, www.ranpariyaankur.com
+// <contribution>
+// Author:           Ankur Ranpariya {iPAHeartBeat}
+// EMail:            ankur30884@gmail.com
+// Copyright:        (c) 2017, by: Ranpariya Ankur {iPAHeartBeat}
+// Social:           @iPAHeartBeat, www.ranpariyaankur.com
 //
-// Original Source:	http://wiki.unity3d.com/index.php/NotificationCenter
-// Last Modified: 	Ankur Ranpariya
-// Contributed By:	N/A
-// Curtsey By:		N/A
+// Original Source:  http://wiki.unity3d.com/index.php/NotificationCenter
+// Last Modified:    Ankur Ranpariya
+//
+// Contributed by:   .
+// Curtsey By:       .
+// </contribution>
+// --------------------------------------------------------------------------------------
 
 using System;
 

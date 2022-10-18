@@ -1,8 +1,20 @@
-// --------------------------------------------------------------------------------
-// <copyright file="INotificationUpdater.cs" company="N/A">
-// Copyright (c) N/A. All rights reserved.
+// --------------------------------------------------------------------------------------
+// <copyright file="INotificationUpdater.cs" company="iPAHeartBeat">
+// Copyright (c) iPAHeartBeat. All rights reserved.
 // </copyright>
-// --------------------------------------------------------------------------------
+// <contribution>
+// Author:           Ankur Ranpariya {iPAHeartBeat}
+// EMail:            ankur30884@gmail.com
+// Copyright:        (c) 2021, by: Ranpariya Ankur {iPAHeartBeat}
+// Social:           @iPAHeartBeat, www.ranpariyaankur.com
+//
+// Original Source:  .
+// Last Modified:    Ankur Ranpariya
+//
+// Contributed by:   .
+// Curtsey By:       .
+// </contribution>
+// --------------------------------------------------------------------------------------
 
 namespace iPAHeartBeat.Core.Abstraction;
 

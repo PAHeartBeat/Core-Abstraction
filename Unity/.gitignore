@@ -35,6 +35,7 @@ sysinfo.txt
 #Mono Project Files
 *.pidb
 *.pdb
+!**/Packages/**/*.pdb
 *.resources
 test-results/
 # ---------------------------------------

@@ -9,7 +9,7 @@
 			"documentInternalElements": true,
 			"documentPrivateElements": true,
 			"documentPrivateFields": true,
-			"companyName": "N/A",
+			"companyName": "iPAHeartBeat",
 			"copyrightText": "Copyright (c) {companyName}. All rights reserved.",
 			"xmlHeader": true,
 			"headerDecoration": "--------------------------------------------------------------------------------",
@@ -18,7 +18,7 @@
 		"indentation": {
 			"indentationSize": 4,
 			"tabSize": 4,
-			"useTabs": false
+			"useTabs": true
 		},
 		"readabilityRules": {
 			"allowBuiltInTypeAliases": true
@@ -38,19 +38,12 @@
 		"namingRules": {
 			"allowCommonHungarianPrefixes": true,
 			"allowedHungarianPrefixes": [],
-			"allowedNamespaceComponents": [
-				"iOS"
-			],
+			"allowedNamespaceComponents": ["iOS", "v"],
 			"includeInferredTupleElementNames": true,
 			"tupleElementNameCasing": "camelCase"
 		},
 		"maintainabilityRules": {
-			"topLevelTypes": [
-				"class",
-				"interface",
-				"enum",
-				"struct"
-			]
+			"topLevelTypes": ["class", "interface", "enum", "struct"]
 		},
 		"layoutRules": {
 			"allowConsecutiveUsings": false,

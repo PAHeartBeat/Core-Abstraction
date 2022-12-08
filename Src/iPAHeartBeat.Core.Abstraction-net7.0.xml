@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <doc>
     <assembly>
-        <name>iPAHeartBeat.Core.Abstraction-net7.0</name>
+        <name>iPAHeartBeat.Core.Abstraction</name>
     </assembly>
     <members>
         <member name="T:iPAHeartBeat.Core.Abstraction.ICustomLogger">

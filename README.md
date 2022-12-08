@@ -1,10 +1,11 @@
 # iPAHeartbeat-Core-Abstraction
-Utility Abstraction for Unity and non-unity project.
+This Package is created to provide some basic Abstraction to use with Game's different feature like Loggers, Game Local Data Store, In-game Notification, Signal System, etc..
 
 * [Change Log](CHANGELOG.md)
+* [UPM Package License](LICENCE.md)
 
 ## Unity Package
-Unity Package is based on .Net Framework 4.8 and C# 10.
+Unity Package is based on .Net Framework 4.71 and C# 10.
 
 Note:
 - Recently I have configure Unity Packages to Cloud Smith IO. Now any-one can use this package to their unity project

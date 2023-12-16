@@ -1,6 +1,13 @@
+## 1.0.2 (2032.12.16)
+### Changes
+- Unity NPM
+  - Bumped version
+  - Fixed Meta file issue.
+
 ## 1.0.1 (2023.10.06)
 ### Changes
 - No Changes, Just version changes
+- Unity Package DLL w/o suffix of Framework
 
 ## 1.0.0-RC2
 ### Changes

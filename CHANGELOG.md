@@ -1,3 +1,17 @@
+## 1.0.2 (2032.12.16)
+### Changes
+- Unity NPM
+  - Bumped version
+  - Fixed Meta file issue.
+- NuGet
+  - No Changes.
+  - Bumped version to match with Unity NPM
+
+## 1.0.1 (2023.10.06)
+### Changes
+- Bumped version for NuGet and NPM
+- Unity Package DLL w/o suffix of Framework
+
 ## 1.0.0-RC2
 ### Changes
 - Added Multiline comments in code for Partial Open Source Info.

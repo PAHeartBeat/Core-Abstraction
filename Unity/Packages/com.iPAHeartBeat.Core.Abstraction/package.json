@@ -1,6 +1,6 @@
 {
 	"name": "com.ipaheartbeat.core.abstraction",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"displayName": "Core Abstraction",
 	"description": "This Packages contains various Abstraction which will used by other Packages for implement the feature of each.",
 	"license": "LGPL-3.0-or-later",
